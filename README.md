@@ -1,4 +1,4 @@
-cis_google_translator
+google_translator_cis
 =====================
 
-cis_google_translator
+google_translator_cis
